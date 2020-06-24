@@ -2088,7 +2088,26 @@
   
   
   "net.minecraft.entity.passive.EntityBat": [
-    "fly|true"
+    "fly|true",
+    "fireImmunity",
+    "hostile",
+    "poisonResistance",
+    "potionEffect|19,140,0,true",
+    "swim|true",
+    "fallNegate",
+    "fireImmunity",
+    "climb",
+    "fallNegate",
+    "witherResistance",
+    "step|2F",
+    "potionEffect|2,600,0,true",
+    "potionEffect|20,600,0,true",
+    "potionEffect|15,300,0,true",
+    "potionEffect|4,600,2,true",
+    "potionEffect|9,400,0,true",
+    "potionEffect|18,200,0,true",
+    "potionEffect|16,600,0,true",
+    "potionEffect|17,100,0,true"
   ],
   "net.minecraft.entity.monster.EntityBlaze": [
     "fly|false",
